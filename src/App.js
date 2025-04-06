@@ -11,6 +11,8 @@ import Footer from './customer/components/Footer/footer';
 
 
 
+
+
 function App() {
   return (
     <div className="">
