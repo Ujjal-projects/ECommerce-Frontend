@@ -16,10 +16,12 @@ const OrderDetails = () => {
       </div>
 
       <Grid container className="space-x-5">
-        <Grid container className="rounded-md p-5 shadow-xl border" sx={{alignItems:"center",justifyContent:"space-between"}}>
-          <Grid size={6}>
-          
-          </Grid>
+        <Grid
+          container
+          className="rounded-md p-5 shadow-xl border"
+          sx={{ alignItems: "center", justifyContent: "space-between" }}
+        >
+          <Grid size={6}></Grid>
         </Grid>
       </Grid>
     </div>
